@@ -1,0 +1,90 @@
+header{
+    background-image: url('https://as1.ftcdn.net/v2/jpg/07/93/81/96/1000_F_793819625_RRx3EQqXCeYelfnriJVMNo8gvfbjKg0S.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+}
+#h11{
+    color: white;
+    position: relative;
+    right: -150px;
+    font-size: 50px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgba(71, 60, 60,0.5);
+    height: 80px;
+    width: 1200px;
+    background-position: center;
+    background-size: contain;
+    padding: 10px;
+}
+h4{
+    color: white;
+    background-color: rgba(71, 60, 60,0.5);
+    text-align: center;
+    width: 1200px;
+    position: relative;
+    right: -150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.div1{
+    outline-style: solid;
+    outline-color: red;
+    width: 1250px;
+    position: relative;
+    right: -100px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+body{
+    background-color: rgb(209, 207, 203);
+}
+
+h6{
+    background-color: aqua;
+    width: 360;
+}
+div.div2{
+    text-align: center;
+    margin: 50px;
+}
+form{
+    outline-style: solid;
+    outline-color: gray;
+    padding: 20px;
+    position: relative;
+    right: -186px;
+    width: 1100px;
+
+    
+}
+#h12{
+    text-align: center;
+    padding: 30px;
+    text-decoration-line: underline;
+}
+input,select{
+    width:1110px;
+    height:35px;
+}
+button{
+    background-color: orangered;
+    color: white;
+    width:1110px;
+    margin: 10px 0px 0px 0px;
+    height:35px;
+}
+h5{
+
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    margin: 10px 0px 0px 0px;
+    height:30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 25px;
+}
